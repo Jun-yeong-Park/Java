@@ -1,0 +1,15 @@
+변수 선언시:
+final : 상수 선언
+ex: final int J; 보통 상수는 capital 쓴다.
+키워드/크기/범위
+Char / 2byte/0~65,535
+ Ex: char c=’f’; 
+Byte/2byte/-128~127
+Short/2btye/-32768~32767
+Char/2byte/-~65,535
+Int/4byte/
+Long/8byte/대신 숫자뒤에l 붙힘
+
+실수
+Float/4byte/뒤에 32.5f 붙힘
+Double/8byte
